@@ -19,3 +19,4 @@ Here are some ideas to get you started:
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/05.__.10/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
+<a href="https://github.com/devxb/gitanimals"> <img src="https://render.gitanimals.org/farms/THISISJEONGBIN" width="100%"/> </a>
