@@ -18,6 +18,7 @@ Here are some ideas to get you started:
     <img 
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/05.__.10/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+        <img src= "https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" >
 </a>
-    <img src= "https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" >
+
 <a href="https://github.com/devxb/gitanimals"> <img src="https://render.gitanimals.org/farms/THISISJEONGBIN" width="100%"/> </a>
