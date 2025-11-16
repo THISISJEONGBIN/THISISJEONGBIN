@@ -22,3 +22,4 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://github.com/devxb/gitanimals"> <img src="https://render.gitanimals.org/farms/THISISJEONGBIN" width="100%"/> </a>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=thisisjeongbin)](https://solved.ac/thisisjeongbin/)
